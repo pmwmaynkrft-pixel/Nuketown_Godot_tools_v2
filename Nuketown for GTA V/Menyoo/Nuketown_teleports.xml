@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Nuketown teleports for Menyoo.
+     Copy the two <Loc> blocks below into  Grand Theft Auto V\menyooStuff\SavedMapLocations.xml
+     (paste them just above the last line, </SavedMapLocations>). In game: Menyoo > Teleport > Saved Locations. -->
+<SavedMapLocations>
+	<Loc name="Nuketown - Cul-de-sac (street entrance)">
+		<X>6001.02</X>
+		<Y>9991.62</Y>
+		<Z>13.28</Z>
+		<Yaw>9.0</Yaw>
+	</Loc>
+	<Loc name="Nuketown - Yellow house (inside, living room)">
+		<X>6018.34</X>
+		<Y>10006.65</Y>
+		<Z>13.55</Z>
+		<Yaw>122.3</Yaw>
+	</Loc>
+</SavedMapLocations>
