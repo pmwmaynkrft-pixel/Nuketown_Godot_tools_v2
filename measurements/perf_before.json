@@ -1,0 +1,37 @@
+{
+  "aerial": {
+    "draw_calls": 4806.0,
+    "frame_ms_software": 816.3,
+    "objects": 6981.0,
+    "primitives": 2065438.0
+  },
+  "buffer_mem_mb": 72.1,
+  "nodes": 13107,
+  "spawnA": {
+    "draw_calls": 3441.0,
+    "frame_ms_software": 643.9,
+    "objects": 4897.0,
+    "primitives": 1649177.0
+  },
+  "spawnB": {
+    "draw_calls": 3291.0,
+    "frame_ms_software": 514.2,
+    "objects": 4648.0,
+    "primitives": 1454909.0
+  },
+  "static_mem_mb": 466.6,
+  "street": {
+    "draw_calls": 3028.0,
+    "frame_ms_software": 656.5,
+    "objects": 4319.0,
+    "primitives": 1379851.0
+  },
+  "texture_mem_mb": 311.9,
+  "video_mem_mb": 384.0,
+  "wide_high": {
+    "draw_calls": 5723.0,
+    "frame_ms_software": 673.7,
+    "objects": 8490.0,
+    "primitives": 1971810.0
+  }
+}

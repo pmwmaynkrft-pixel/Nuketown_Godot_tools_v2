@@ -1,0 +1,74 @@
+{
+  "Foliage/aerial": [
+    1974,
+    249706
+  ],
+  "Foliage/spawnA": [
+    1244,
+    206408
+  ],
+  "Foliage/street": [
+    1124,
+    165376
+  ],
+  "Glass/aerial": [
+    61,
+    61
+  ],
+  "Glass/spawnA": [
+    57,
+    57
+  ],
+  "Glass/street": [
+    53,
+    53
+  ],
+  "Mountains/aerial": [
+    2,
+    304
+  ],
+  "Mountains/spawnA": [
+    2,
+    64
+  ],
+  "Mountains/street": [
+    3,
+    336
+  ],
+  "Props/aerial": [
+    2060,
+    1417573
+  ],
+  "Props/spawnA": [
+    1391,
+    1068550
+  ],
+  "Props/street": [
+    1207,
+    870864
+  ],
+  "Structures/aerial": [
+    126,
+    130915
+  ],
+  "Structures/spawnA": [
+    112,
+    107800
+  ],
+  "Structures/street": [
+    52,
+    77739
+  ],
+  "Terrain/aerial": [
+    583,
+    266879
+  ],
+  "Terrain/spawnA": [
+    635,
+    266298
+  ],
+  "Terrain/street": [
+    589,
+    265483
+  ]
+}
